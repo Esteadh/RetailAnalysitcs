@@ -258,8 +258,7 @@ Microsoft Power BI Desktop is required to open and interact with the report.
 
 ### 4.2 Geographical Sales Analysis
 
-![Geographical Sales Analysis](04-dashboard/geographical_sales_dashboard.png)
-
+![Geographical Sales Analysis](04-dashboard/04-dashboard/geograpchical_sales_dashboard.png)
 **Objective:** Evaluate the geographical distribution of sales and refunds across customer cities and product countries.
 
 **Key Features:**
